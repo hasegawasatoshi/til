@@ -1,0 +1,23 @@
+{
+    "uid": "59ba18ef-82ff-9d80-cdc0-8d135d9ecffd",
+    "data": [
+        {
+            "timestamp": 1566654001,
+            "temperature": 28.5,
+            "humidity": 65,
+            "pressure": 1.2
+        },
+        {
+            "timestamp": 1566654241,
+            "temperature": 29.8,
+            "humidity": 72,
+            "pressure": 1.1
+        },
+        {
+            "timestamp": 1566654481,
+            "temperature": 27.9,
+            "humidity": 60,
+            "pressure": 0.9
+        }
+    ]
+}
