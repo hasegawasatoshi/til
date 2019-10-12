@@ -1,5 +1,5 @@
 var express = require('express'),
-    passport = require('passport'),
+    jpassport = require('passport'),
     bodyParser = require('body-parser'),
     LdapStrategy = require('passport-ldapauth');
 
