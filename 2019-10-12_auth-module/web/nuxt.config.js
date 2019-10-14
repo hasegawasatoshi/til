@@ -57,10 +57,13 @@ module.exports = {
       }
     },
     redirect: {
-      login: '/',
-      logout: '/',
+      login: '/login',
+      logout: '/login',
       callback: '/callback'
     },
+  },
+  router: {
+    middleware: ['auth']
   },
   /*
   ** Build configuration
